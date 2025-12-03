@@ -81,6 +81,8 @@ A PUT signal is generated only when **ALL** conditions are met:
 
 ---
 ### 📉 Back Test
+![EURUSD Backtest](EURUSD_BackTest.png)
+
 
 
 
